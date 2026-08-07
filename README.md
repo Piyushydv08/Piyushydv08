@@ -219,16 +219,6 @@ Containerized AI/ML platform for career guidance, deployed with a fully automate
 
 <br/>
 
-## `$ ./trophies --columns 7`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyushydv08&row=1&column=7&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&background=0D1117&border_radius=10&no-frame=true&margin-w=8"/>
-
-</div>
-
-<br/>
-
 ## `$ plot activity --graph`
 
 <div align="center">
