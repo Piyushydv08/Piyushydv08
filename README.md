@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pixel&color=0D1117&height=220&section=header&text=PIYUSH%20YADAV&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%2B%20Security%20%2B%20Data&descAlignY=56&descSize=18&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=PIYUSH%20YADAV&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Shipping%20AI-powered%2C%20secure%2C%20full-stack%20platforms%20%E2%80%94%20one%20terminal%20command%20at%20a%20time&descAlignY=62&descSize=15&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/Piyushydv08">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&width=650&height=110&lines=%24+whoami;%3E+Software+Developer+Intern+%7C+B.Tech+ECE+%2C+NSUT;%24+cat+stack.txt;%3E+TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+AWS;%24+ls+projects%2F;%3E+KrishiSetu+SafeVoice+PlacementPro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&width=650&height=110&lines=%24+whoami;%3E+Full-Stack+Dev+%7C+AI+%2B+Security+%2B+Data;%24+cat+current_role.txt;%3E+Software+Dev+Intern+%40+NSUT+%2C+ECE+%2726;%24+ls+projects%2F;%3E+KrishiSetu.ts+SafeVoice.tsx+PlacementPro.yml;%24+status+--open-to;%3E+Internships+%7C+SDE-1+%7C+Full-Stack" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://linkedin.com/in/piyushydv08)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](mailto:piyush.yadav.ug23@nsut.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://github.com/Piyushydv08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](https://linkedin.com/in/piyushydv08)
+[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](mailto:piyush.yadav.ug23@nsut.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](https://github.com/Piyushydv08)
 
 </div>
 
@@ -189,7 +189,7 @@ Containerized AI/ML platform for career guidance, deployed with a fully automate
 
 <div align="center">
 
-[![B.Tech ECE](https://img.shields.io/badge/B.Tech_(ECE)-NSUT_New_Delhi_%7C_2023--2027-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117)](https://github.com/Piyushydv08)
+[![B.Tech ECE](https://img.shields.io/badge/B.Tech_(ECE)-NSUT_New_Delhi_%7C_2023--2027-00FF9C?style=for-the-badge&color=00FF9C&labelColor=0D1117)](https://github.com/Piyushydv08)
 
 </div>
 
@@ -199,8 +199,8 @@ Containerized AI/ML platform for career guidance, deployed with a fully automate
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Piyushydv01-0D1117?style=flat-square&logo=leetcode&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://leetcode.com/u/Piyushydv01)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-piyushydv008-0D1117?style=flat-square&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://geeksforgeeks.org/user/piyushydv008)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Piyushydv01-0D1117?style=flat-square&logo=leetcode&logoColor=00FF9C&labelColor=0D1117&color=00FF9C)](https://leetcode.com/u/Piyushydv01)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-piyushydv008-0D1117?style=flat-square&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0D1117&color=00FF9C)](https://geeksforgeeks.org/user/piyushydv008)
 
 </div>
 
@@ -287,10 +287,10 @@ current_focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://linkedin.com/in/piyushydv08)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](mailto:piyush.yadav.ug23@nsut.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://github.com/Piyushydv08)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=0D1117&color=0D1117)](https://leetcode.com/u/Piyushydv01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](https://linkedin.com/in/piyushydv08)
+[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](mailto:piyush.yadav.ug23@nsut.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](https://github.com/Piyushydv08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=00FF9C&color=00FF9C)](https://leetcode.com/u/Piyushydv01)
 
 <br/>
 
